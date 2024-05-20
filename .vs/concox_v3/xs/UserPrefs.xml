@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4B42298D-315F-4A10-BD16-8002D2E5C321}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="concox_v3/Program.cs">
+    <Files>
+      <File FileName="concox_v3/Program.cs" Line="57" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.concox__v3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
